@@ -1,0 +1,9 @@
+[matomo_track_button]
+  other="Autoriser les analyses de mes données."
+[matomo_track_message]
+  other="Merci de fournir des données d'analyse et de nous aider à améliorer notre service à la communauté"
+[matomo_block_button]
+  other="Ne pas autoriser les analyses de mes données."
+[matomo_block_message]
+  other="Malheureusement, en n'autorisant pas l'utilisation de vos données, il est plus difficile pour nous d'améliorer notre service à la communauté."
+
